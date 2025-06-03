@@ -1,3 +1,5 @@
+Requirements for this programm to work (it will install everything it self if you press J):
+
 Python
 
 Python packages:
