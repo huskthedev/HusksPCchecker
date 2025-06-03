@@ -1,1 +1,7 @@
+Python
 
+Python packages:
+tkinter
+psutil
+
+if a package is broken please install it and report it as a bug
